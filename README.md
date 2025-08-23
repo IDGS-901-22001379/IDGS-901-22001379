@@ -41,13 +41,14 @@ I love to learn and build something new, productive, innovative and creative.
 <img
   align="right"
   width="300"
-  alt="Lenguajes del programador"
-  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/lenguajesprogramador.png"
+  alt="Programador trabajando"
+  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
   style="margin-left:16px; border-radius:12px;"
 />
 
 <br clear="both"/>
 
+----------------
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
