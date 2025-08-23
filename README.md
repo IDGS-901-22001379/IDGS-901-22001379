@@ -46,10 +46,11 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 
+
 <p align="center">
-  <!-- Versión personalizada: fondo gris claro, contribuciones de verde claro a verde oscuro -->
-  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/snake-custom.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/snake-github-dark.svg" alt="Snake Game"/>
 </p>
+
 
 
 
