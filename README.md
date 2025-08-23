@@ -11,6 +11,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IDGS-901-22001379&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25" width="160" />
 </p>
+<!-- Imagen a la derecha -->
+<img
+  align="right"
+  width="300"
+  alt="Software Engineer Illustration"
+  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&psig=AOvVaw10N_WVtH5DTP0kFuEyA40L&ust=1756075140366000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCOCdjuv_oY8DFQAAAAAdAAAAABCaAQ"
+  style="border-radius:12px; margin-left:20px; margin-bottom:10px;"
+/>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Soy Yael López Mariano — **Full-Stack Developer (.NET + Angular)**, entusiasta de **IoT & MQTT (ESP32)** y **Android (Kotlin) + Firebase**. Me gusta aprender y construir soluciones útiles, limpias y creativas.
+
+- **Intereses:** desarrollo web, apps Android y proyectos IoT/embebidos.
+- 🌱 Actualmente aprendiendo:
+  - **Java**
+  - **React.js**
+- 👯 Abierto a colaborar en proyectos **open source** y educativos.
+- ✔ Pregúntame sobre **.NET**, **Angular**, **Kotlin/Android**, **Firebase**, **MQTT/ESP32** — con gusto ayudo si “la pelota está de mi lado” 😉
+- Fuera de la tecnología: 📖 leer, 🎵 música y 🌿 explorar al aire libre.
+- 📫 Contáctame en: <a href="mailto:TU_EMAIL@dominio.com">TU_EMAIL@dominio.com</a>
 
 ---
 
