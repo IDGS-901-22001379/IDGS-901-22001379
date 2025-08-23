@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Yael López Mariano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Yael López Mariano 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif" width="60" alt="Programador trabajando">
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,16 +10,7 @@
   </a>
 </p>
 
-<br>
-
-<!-- Imagen izquierda -->
-<img
-  align="left"
-  width="260"
-  alt="Busy coding"
-  src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"
-  style="margin-right:16px; border-radius:12px;"
-/>
+---
 
 <!-- Título centrado -->
 <h2 align="center">
@@ -23,9 +18,11 @@
   &nbsp;<b>About me</b>
 </h2>
 
-<!-- Contenido a la izquierda -->
+<!-- Contenido con imagen a la derecha -->
 <p align="left">
-I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad. C, C++, Python, JavaScript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.  
+C, C++, Python, JavaScript, HTML, and Shell are the programming languages I am good at.  
+I love to learn and build something new, productive, innovative and creative.
 </p>
 
 <ul align="left">
@@ -40,12 +37,12 @@ I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.  
 - 📫 Reach out to me at: <a href="mailto:bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
-<!-- Imagen derecha (la “última imagen”) -->
+<!-- Imagen derecha -->
 <img
   align="right"
   width="300"
-  alt="Programador trabajando"
-  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
+  alt="Lenguajes del programador"
+  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/lenguajesprogramador.png"
   style="margin-left:16px; border-radius:12px;"
 />
 
