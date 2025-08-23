@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 1 * * *"     # corre diario 01:00 UTC
+  workflow_dispatch:         # permite ejecutarlo manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Genera varias variantes del SVG:
+      - name: Generate snake svgs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: IDGS-901-22001379   # <- tu usuario
+          # Nota: puedes definir varias salidas (una por línea)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Variante personalizada: gris claro para celdas vacías y gama verde
+            dist/snake-custom.svg?color_snake=%232bb5ff&color_dots=%23d1d5db,%23a7f3d0,%236ee7b7,%2334d399,%23059669
+
+      # Publica los SVG en la rama `output`
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
