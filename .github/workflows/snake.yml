@@ -15,18 +15,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Genera varias variantes del SVG:
       - name: Generate snake svgs
         uses: Platane/snk@v3
         with:
-          github_user_name: IDGS-901-22001379   # <- tu usuario
+          github_user_name: IDGS-901-22001379
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # Variante personalizada: serpiente morada, fondo gris claro y verdes brillantes
-            dist/snake-custom.svg?color_snake=%23a855f7&color_dots=%23f3f4f6,%23bbf7d0,%234cdf85,%2322c55e,%2316a34a&background=%23f3f4f6
+            # Estilo GitHub Dark: fondo gris oscuro y verdes "oficiales"
+            # (vacío, bajo, medio-, medio+, alto) → #161b22, #0e4429, #006d32, #26a641, #39d353
+            dist/snake-github-dark.svg?color_snake=%23a855f7&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353&background=%230e1117
 
-      # Publica los SVG en la rama `output`
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -34,4 +33,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
