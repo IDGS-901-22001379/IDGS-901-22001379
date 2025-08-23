@@ -1,4 +1,4 @@
----
+
 
 <!-- Título centrado -->
 <h2 align="center">
@@ -36,7 +36,7 @@ I love to learn and build something new, productive, innovative and creative.
 <br clear="both"/>
 
 
-----------------
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
