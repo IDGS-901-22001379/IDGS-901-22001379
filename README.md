@@ -1,15 +1,3 @@
-<h1 align="center">
-  Hi, I'm Yael López Mariano 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif" width="60" alt="Programador trabajando">
-</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+(.NET+%2B+Angular);IoT+%26+MQTT+(ESP32)+Enthusiast;Kotlin+Android+%7C+Firebase;Siempre+aprendiendo+nuevas+cosas" />
-  </a>
-</p>
-
 ---
 
 <!-- Título centrado -->
@@ -19,6 +7,14 @@
 </h2>
 
 <!-- Contenido con imagen a la derecha -->
+<img
+  align="right"
+  width="300"
+  alt="Programador trabajando"
+  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
+  style="margin-left:16px; border-radius:12px;"
+/>
+
 <p align="left">
 I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.  
 C, C++, Python, JavaScript, HTML, and Shell are the programming languages I am good at.  
@@ -37,16 +33,8 @@ I love to learn and build something new, productive, innovative and creative.
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.  
 - 📫 Reach out to me at: <a href="mailto:bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
-<!-- Imagen derecha -->
-<img
-  align="right"
-  width="300"
-  alt="Programador trabajando"
-  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
-  style="margin-left:16px; border-radius:12px;"
-/>
-
 <br clear="both"/>
+
 
 ----------------
 
