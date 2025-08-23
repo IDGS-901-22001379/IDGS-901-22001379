@@ -36,11 +36,12 @@
   <!-- Tarjeta de contribuciones (requiere .github/workflows/metrics.yml ya creado) 
   <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/metrics.svg" alt="Profile metrics" />
   <br/><br/>
+  -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IDGS-901-22001379&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=IDGS-901-22001379&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
--->
+
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
