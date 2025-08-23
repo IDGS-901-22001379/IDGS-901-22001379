@@ -8,32 +8,49 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IDGS-901-22001379&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25" width="160" />
+<!-- Imagen izquierda -->
+<img
+  align="left"
+  width="260"
+  alt="Busy coding"
+  src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"
+  style="margin-right:16px; border-radius:12px;"
+/>
+
+<!-- Título centrado -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" style="vertical-align:middle;"/>
+  &nbsp;<b>About me</b>
+</h2>
+
+<!-- Contenido a la izquierda -->
+<p align="left">
+I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad. C, C++, Python, JavaScript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 </p>
-<!-- Imagen a la derecha -->
+
+<ul align="left">
+  <li><b>I am interested in Web designing, Android development, and digital marketing</b></li>
+</ul>
+
+- 🌱 I’m currently learning ...
+  - Java  
+  - React JS  
+- 👯 I’m looking forward to collaborate on open source projects.  
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉  
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.  
+- 📫 Reach out to me at: <a href="mailto:bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
+<!-- Imagen derecha (la “última imagen”) -->
 <img
   align="right"
   width="300"
-  alt="Software Engineer Illustration"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&psig=AOvVaw10N_WVtH5DTP0kFuEyA40L&ust=1756075140366000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCOCdjuv_oY8DFQAAAAAdAAAAABCaAQ"
-  style="border-radius:12px; margin-left:20px; margin-bottom:10px;"
+  alt="Programador trabajando"
+  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
+  style="margin-left:16px; border-radius:12px;"
 />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<br clear="both"/>
 
-Soy Yael López Mariano — **Full-Stack Developer (.NET + Angular)**, entusiasta de **IoT & MQTT (ESP32)** y **Android (Kotlin) + Firebase**. Me gusta aprender y construir soluciones útiles, limpias y creativas.
-
-- **Intereses:** desarrollo web, apps Android y proyectos IoT/embebidos.
-- 🌱 Actualmente aprendiendo:
-  - **Java**
-  - **React.js**
-- 👯 Abierto a colaborar en proyectos **open source** y educativos.
-- ✔ Pregúntame sobre **.NET**, **Angular**, **Kotlin/Android**, **Firebase**, **MQTT/ESP32** — con gusto ayudo si “la pelota está de mi lado” 😉
-- Fuera de la tecnología: 📖 leer, 🎵 música y 🌿 explorar al aire libre.
-- 📫 Contáctame en: <a href="mailto:TU_EMAIL@dominio.com">TU_EMAIL@dominio.com</a>
-
----
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
