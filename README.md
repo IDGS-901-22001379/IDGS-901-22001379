@@ -41,13 +41,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IDGS-901-22001379&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<!--
-## 🐍 A Snake Eating my Contributions Graph (OPCIONAL)
-Para usar esto, primero configura el workflow de la serpiente (Platane/snk) que genera:
-  /output/github-contribution-grid-snake.svg
+---
+
+## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <!-- Versión personalizada: fondo gris claro, contribuciones de verde claro a verde oscuro -->
+  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/snake-custom.svg" alt="Snake Game"/>
 </p>
--->
+
 
