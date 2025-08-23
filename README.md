@@ -10,18 +10,16 @@
 <br>
 
 <p align="center">
-  <!-- Contador de vistas del perfil (cambia TU_USUARIO_GITHUB) -->
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25" width="160" />
+  <!-- Contador de vistas del perfil -->
+  <img src="https://komarev.com/ghpvc/?username=IDGS-901-22001379&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25" width="160" />
 </p>
 
-<!-- ========================================================= -->
-<!--                AQUI NO VAMOS A PONER NADA MÁS            -->
-<!-- ========================================================= -->
+---
 
 ## 🐍 A Snake Eating my Contributions Graph
-
+	
 <p align="center">
-  <!-- Serpiente de contribuciones (cambia TU_USUARIO_GITHUB) -->
-  <img src="https://github.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <!-- Serpiente de contribuciones -->
+  <img src="https://github.com/IDGS-901-22001379/IDGS-901-22001379/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
