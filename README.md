@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+(.NET+%2B+Angular);IoT+%26+MQTT+(ESP32)+Enthusiast;Kotlin+Android+%7C+Firebase;Siempre+aprendiendo+nuevas+cosas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=750&height=100&lines=Full+Stack+Developer;Backend+%26+APIs:+Java,+Python,+.NET+(C#),+REST;Frontend:+HTML,+CSS,+JavaScript,+Angular,+TypeScript,+Flask;Databases:+MySQL,+SQL,+MongoDB;Android+Development:+Kotlin,+Compose,+Java,+XML;Siempre+aprendiendo+nuevas+cosas" />
   </a>
 </p>
+
 
 
 <!-- Título centrado -->
@@ -69,7 +70,7 @@ For me, <i>"what can be imagined can be programmed."</i>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">## 📈 My GitHub Contributions </h2></summary>
+    <summary><h2 style="display: inline-block"> 📈 My GitHub Contributions </h2></summary>
   </ul>
 </div>
 
@@ -84,7 +85,7 @@ For me, <i>"what can be imagined can be programmed."</i>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> ## 🐍 A Snake Eating my Contributions Graph </h2></summary>
+    <summary><h2 style="display: inline-block"> 🐍 A Snake Eating my Contributions Graph </h2></summary>
   </ul>
 </div>
 
