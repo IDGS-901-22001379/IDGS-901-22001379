@@ -26,24 +26,25 @@
 />
 
 <p align="left">
-I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.  
-C, C++, Python, JavaScript, HTML, and Shell are the programming languages I am good at.  
-I love to learn and build something new, productive, innovative and creative.
+I am a <b>Full Stack Software Developer</b> passionate about creating innovative and efficient solutions.  
+I have experience in <b>backend, frontend, databases, mobile development, and application security</b>.  
+✨ I love programming and facing new challenges to keep improving every day.  
+For me, <i>"what can be imagined can be programmed."</i>
 </p>
 
 <ul align="left">
-  <li><b>I am interested in Web designing, Android development, and digital marketing</b></li>
+  <li><b>Backend & APIs:</b> Java, Python, .NET (C#), REST API security and best practices</li>
+  <li><b>Frontend:</b> HTML, CSS, JavaScript, Angular, TypeScript, Flask</li>
+  <li><b>Databases:</b> MySQL, SQL, MongoDB</li>
+  <li><b>Mobile Development:</b> Android Studio with Kotlin, Compose, Java, and XML</li>
 </ul>
 
-- 🌱 I’m currently learning ...
-  - Java  
-  - React JS  
-- 👯 I’m looking forward to collaborate on open source projects.  
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉  
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.  
-- 📫 Reach out to me at: <a href="mailto:bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="mailto:yaellopezmariano@gamil.com">yaellopezmariano@gamil.com</a>
+
+
 
 <br clear="both"/>
+
 
 
 
