@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=750&height=100&lines=Full+Stack+Developer;Backend+%26+APIs:+Java,+Python,+.NET+(C#),+REST;Frontend:+HTML,+CSS,+JavaScript,+Angular,+TypeScript,+Flask;Databases:+MySQL,+SQL,+MongoDB;Android+Development:+Kotlin,+Compose,+Java,+XML;Siempre+aprendiendo+nuevas+cosas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=850&height=100&lines=Full+Stack+Developer;Backend:+Java,+Python,+.NET+(C#);APIs:+REST,+Security,+Best+Practices;Frontend:+JavaScript,+TypeScript,+Angular;Databases:+MySQL,+SQL,+MongoDB;Android+Development:+Java,+Kotlin,+Compose,+XML;Siempre+aprendiendo+nuevas+cosas" />
   </a>
 </p>
+
 
 
 
