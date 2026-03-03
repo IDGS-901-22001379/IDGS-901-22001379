@@ -36,7 +36,7 @@ For me, <i>"what can be imagined can be programmed."</i>
 
 <ul align="left">
   <li><b>Backend & APIs:</b> Java, Python, .NET (C#), REST API security and best practices</li>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript, Angular, TypeScript, Flask</li>
+  <li><b>Frontend:</b> HTML, CSS, JavaScript, Angular,React, TypeScript, Flask</li>
   <li><b>Databases:</b> MySQL, SQL, MongoDB</li>
   <li><b>Mobile Development:</b> Android Studio with Kotlin, Compose, Java, and XML</li>
 </ul>
