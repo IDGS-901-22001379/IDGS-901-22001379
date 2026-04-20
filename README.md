@@ -93,9 +93,9 @@ For me, <i>"what can be imagined can be programmed."</i>
 <h2 align="center">📈 My GitHub Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IDGS-901-22001379&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yael-lopez-mariano&theme=tokyonight&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IDGS-901-22001379&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yael-lopez-mariano&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
