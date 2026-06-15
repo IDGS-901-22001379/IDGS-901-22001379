@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi, I'm Yael López Mariano 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -17,7 +18,7 @@
 <img
   align="right"
   width="300"
-  src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/main/assets/gifProgramador.gif"
+  src="https://raw.githubusercontent.com/yael-lopez-mariano/yael-lopez-mariano/main/assets/gifProgramador.gif"
 />
 
 <p>
@@ -32,7 +33,7 @@ For me, <i>"what can be imagined can be programmed."</i>
   <li><b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap, Tailwind</li>
   <li><b>Databases:</b> MySQL, SQL, MongoDB</li>
   <li><b>Cloud & DevOps:</b> Docker, AWS</li>
-  <li><b>Mobile Development:</b> Android Studio (Kotlin, Compose, Java, XML)</li>
+  <li><b>Mobile Development:</b> Android Studio, Kotlin, Compose, Java, XML</li>
 </ul>
 
 📫 Reach out to me at: <a href="mailto:yaellopezmariano@gmail.com">yaellopezmariano@gmail.com</a>
@@ -103,5 +104,6 @@ For me, <i>"what can be imagined can be programmed."</i>
 <h2 align="center">🐍 Snake Eating my Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IDGS-901-22001379/IDGS-901-22001379/output/snake-github-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yael-lopez-mariano/yael-lopez-mariano/output/snake-github-dark.svg" />
 </p>
+```
